@@ -19,9 +19,11 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 NAME : POOJA S
+
 REG NO: 212223040146
 
 <img width="565" height="130" alt="image" src="https://github.com/user-attachments/assets/daa90b93-7712-46ad-8b15-c68647a1747d" />
+
 # LINE PLOT
 
 <img width="784" height="854" alt="image" src="https://github.com/user-attachments/assets/d9c38096-673c-4da7-a381-b8c6b98414dd" />
